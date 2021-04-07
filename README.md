@@ -3,7 +3,7 @@
 ## Contact Information
 * Email - `StephenDMay@gmail.com`
 * Phone - 678-446-4542
-* [LinkedIn] (https://www.linkedin.com/in/stephendmay/)
+* [LinkedIn](https://www.linkedin.com/in/stephendmay/)
 
 ## About
 * FullStack Engineer with proficiencies in Java, Javascript, Angular, Vue, HTML/CSS, MySQL, PostgreSQL, Springboot.
