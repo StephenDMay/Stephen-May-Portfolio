@@ -1,6 +1,7 @@
 # Stephen May's Portfolio
 
 ![](image link here)
+________________________________________________________________________________
 
 ## About
 ### Contact Information
@@ -17,7 +18,8 @@
 ________________________________________________________________________________
 ## Projects
 
-### FindyParadise
+
+### FindMyParadise
 #### SCRUM Master
 * Worked in a team of 12 to develop a clone of the popular AirBnb application. The app was capable of displaying different listings, allowing users to contact the host, book a reservation, and see all the details of a listing such as location, reviews, amenities, and similar listings nearby. Project was developed in week long sprints, in which each team member was responsible for a different component. Serving as SCRUM master I was able to gain experience managing a team's work flow and keeping track of the progress of the many components. 
 
