@@ -11,9 +11,9 @@
 ### Summary
 * FullStack Engineer with proficiencies in Java, Javascript, Angular, Vue, HTML/CSS, MySQL, PostgreSQL, and Springboot. Experienced with both the front and back end to deliver full stack applications. Has worked in Agile workflows, serving as a SCRUM master and team member. Worked in both team and individual settings to deliver beautifal and technical applications.
 
-## Education
+### Education
 * B.S. in Computer Science from Kennesaw State University (2020)
-
+*-------------------------------------------------------------------------------------------------------
 ## Projects
 
 ### FindyParadise
