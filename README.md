@@ -1,6 +1,6 @@
 # Stephen May's Portfolio
 
-![](image link here)
+![](https://media-exp1.licdn.com/dms/image/C4E03AQF_ShzaAOEdEw/profile-displayphoto-shrink_800_800/0/1602685163534?e=1623283200&v=beta&t=o6Vy2FMoJZLq83n-UkmWiRQK15Bc4LVQdgL2-bZQWd4)
 ________________________________________________________________________________
 
 ## About
