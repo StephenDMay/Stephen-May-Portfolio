@@ -9,8 +9,7 @@ ___
 * [LinkedIn](https://www.linkedin.com/in/stephendmay/)
 
 ### Summary
-* Full Stack engineer with experience in both the front and back end to deliver functional applications. Skilled in developing user friendly interfaces and database management. Proficient in the following languages and frameworks:
-
+Full Stack engineer with experience in both the front and back end to deliver functional applications. Skilled in developing user friendly interfaces and database management. Proficient in the following languages and frameworks:
 - Java
 - JavaScript
 - SpringBoot
