@@ -1,5 +1,5 @@
 # Stephen May's Portfolio
-
+## Full Stack Engineer
 ___
 
 ## About
@@ -9,7 +9,18 @@ ___
 * [LinkedIn](https://www.linkedin.com/in/stephendmay/)
 
 ### Summary
-* FullStack Engineer with proficiencies in Java, Javascript, Angular, Vue, HTML/CSS, MySQL, PostgreSQL, and Springboot. Experienced with both the front and back end to deliver full stack applications. Has worked in Agile workflows, serving as a SCRUM master and team member. Worked in both team and individual settings to deliver beautifal and technical applications.
+* Full Stack engineer with experience in both the front and back end to deliver functional applications. Skilled in developing user friendly interfaces and database management. Proficient in the following languages and frameworks:
+
+- Java
+- JavaScript
+- SpringBoot
+- MySQL
+- PostgreSQL
+- HTML/CSS
+- Angular
+- Vue
+- REST API
+- GitHub
 
 ### Education
 * B.S. in Computer Science from Kennesaw State University (2020)
