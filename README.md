@@ -1,6 +1,5 @@
 # Stephen May's Portfolio
 
-![]()
 ___
 
 ## About
